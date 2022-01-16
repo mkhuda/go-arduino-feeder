@@ -1,4 +1,4 @@
-module github.com/go-arduino-temp-http
+module github.com/mkhuda/go-arduino-feeder
 
 go 1.17
 

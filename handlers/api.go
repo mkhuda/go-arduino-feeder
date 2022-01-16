@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/go-arduino-temp-http/configs"
-	"github.com/go-arduino-temp-http/models"
 	"github.com/go-resty/resty/v2"
+	"github.com/mkhuda/go-arduino-feeder/configs"
+	"github.com/mkhuda/go-arduino-feeder/models"
 )
 
 func Api_Get() {

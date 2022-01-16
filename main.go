@@ -10,8 +10,8 @@ import (
 
 	"errors"
 
-	"github.com/go-arduino-temp-http/handlers"
 	"github.com/joho/godotenv"
+	"github.com/mkhuda/go-arduino-feeder/handlers"
 	"go.bug.st/serial"
 	"go.bug.st/serial/enumerator"
 )
